@@ -1,0 +1,45 @@
+"Project:","Pi Pico Extender\Pi Pico Extender.kicad_sch"
+"Date:","10/5/2023"
+"Tool:","Eeschema 7.0.6"
+"BOM Generator:","myScripts\myKiCad_BOM_Maker.py"
+
+"Total Component Count:","13"
+"Component Type Count:","12"
+"Ref","Qnty","Value","Description","Cmp name","Footprint"
+
+"Component: 1/12:"
+"A1","1","RPi_Pico_Riser","RPi Pico Riser, 2 01x20 p2.54mm pinSockets","RPi_Pico_Riser","0_Thomas_Footprints:RPi_Pico Riser"
+
+"Component: 2/12:"
+"C1","1","10uF","Unpolarized capacitor","C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+
+"Component: 3/12:"
+"C2","1","22uF","Unpolarized capacitor","C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+
+"Component: 4/12:"
+"D1","1","LED","Light emitting diode","LED","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+
+"Component: 5/12:"
+"D2","1","D_Schottky, 20V 2A","Schottky diode","D_Schottky","Diode_SMD:D_SOD-123F"
+
+"Component: 6/12:"
+"J1","1","USBc","USB C Socket- 6 pin","USB C Socket- 6 pin","0_Thomas_Footprints:GCT_USB4125-GF-A_REVA2"
+
+"Component: 7/12:"
+"J2","1","Conn_01x02","Generic connector, single row, 01x02","Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+
+"Component: 8/12:"
+"J3","1","Conn_02x03_Odd_Even","Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)","Conn_02x03_Odd_Even","Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical"
+
+"Component: 9/12:"
+"J4, J5","2","Conn_01x20","Generic connector, single row, 01x20","Conn_01x20","Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
+
+"Component: 10/12:"
+"R1","1","~300","Resistor","R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+
+"Component: 11/12:"
+"SW1","1","Momentary_Button_4pin","4 pin pushbutton","Momentary_Button_4pin","Button_Switch_THT:SW_PUSH_6mm"
+
+"Component: 12/12:"
+"U1","1","AZ1117-3.3","1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263","AZ1117-3.3","Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+
