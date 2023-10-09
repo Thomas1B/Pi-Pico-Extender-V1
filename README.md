@@ -8,7 +8,7 @@ The board is designed with the same dimensions as a Pi Hat for easy mounting.
 
 <hr>
 
-![screenshot](!images/)
+![screenshot](!images/) (coming soon!)
 
 <hr>
 
